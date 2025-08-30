@@ -1,4 +1,4 @@
 Cambio realizado en local + Cambio realizado en GitHub (rama main)
 Trabajaré aqui 
 Este es mi archivo inicial
-Línea añadida en local en la tarea
+Línea añadida desde GitHub en la tarea
